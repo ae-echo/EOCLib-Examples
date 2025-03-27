@@ -28,7 +28,3 @@ EOCLib is a firmware support library used for evaluating actuator modules, inclu
 ## 🚀 How to Build
 
 You must have the EOCLib SDK and header files. This repository only provides example source code.
-
-### Example (Windows / MSVC)
-```bash
-cl /std:c++17 src\CrosstalkExample.cpp /Iinclude EOCLib.lib
